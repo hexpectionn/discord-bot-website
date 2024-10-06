@@ -2,7 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-image: url('https://cdn.discordapp.com/attachments/1292411998331473952/1292469625254182982/standard.gif?ex=6703d9a3&is=67028823&hm=f2a7b0a5e5213cd0e8e6819934372bb5eecc0f5d12ae0e8422bb299a1b524072&'); /* Arka plan görseli */
+    background-size: cover; /* Görseli tam olarak kaplar */
+    background-position: center; /* Görseli ortalar */
+    background-repeat: no-repeat; /* Tekrar etmez */
+    color: #ffffff; /* Metin rengini beyaz yaparak okunabilirliği artırır */
 }
 
 header {
